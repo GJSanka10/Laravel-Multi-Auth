@@ -7,6 +7,27 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## Admin Login
+
+![lw15](https://github.com/GJSanka10/Laravel-Multi-Auth/assets/121654570/c5365c9e-0e00-4d1b-8003-bdfb54ecccfd)
+
+You can see browser routes are admin/login .This for Admin login.
+
+![Alw16](https://github.com/GJSanka10/Laravel-Multi-Auth/assets/121654570/eaa5c817-60fc-40c0-bf6f-ff277a5abf4c)
+
+You can see browser routes are admin/dashboard .This for Admin Dashboard.
+
+
+## Customer Login
+
+![lw14](https://github.com/GJSanka10/Laravel-Multi-Auth/assets/121654570/25407808-8dc3-4167-81d2-ceb6592ff112)
+
+You can see browser routes are login .This for Customer login
+
+![lw17](https://github.com/GJSanka10/Laravel-Multi-Auth/assets/121654570/2894ff43-cf50-4ae0-b009-3784242be020)
+
+You can see browser routes are dashboard .This for Customer Dashboard
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
